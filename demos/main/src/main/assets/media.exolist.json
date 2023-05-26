@@ -579,7 +579,7 @@
       {
         "name": "TTML positioning",
         "uri": "https://html5demos.com/assets/dizzy.mp4",
-        "subtitle_uri": "https://storage.googleapis.com/exoplayer-test-media-1/ttml/netflix_ttml_sample.xml",
+        "subtitle_uri": "http://vod-sub-uk-live.akamaized.net/iplayer/subtitles/ng/modav/bUnknown-3512f075-58e7-4772-be3e-8925b948d934_m000sw65_pips-pid-m000sw65_1639667018857.xml?__gda__=1685128741_f374ff9a8ad32478ff2f930ccaeb4f96",
         "subtitle_mime_type": "application/ttml+xml",
         "subtitle_language": "en"
       },
